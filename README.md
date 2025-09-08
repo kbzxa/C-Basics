@@ -1,54 +1,51 @@
-# C-Basics
-# 📚 Mini Library System in C
+# 🚀 C Basics
 
-This project is a simple **console application written in C** that allows managing a small library.  
-The system supports adding books, listing them, searching by title, and deleting books.  
+Welcome to my **C programming portfolio**!  
+This repository contains different projects and exercises I have built while learning and practicing the C language.  
 
 ---
 
-## 🤔 Why is this project useful?
-- It practices fundamental concepts of **C programming**:
-  - Usage of **structures**
-  - Working with **arrays and dynamic memory**
-  - Modular **function design**
-- Shows how a low-level language like C can be applied to solve real-world problems.  
+## 📌 What you’ll find here
+- Beginner-friendly programs (calculators, arrays, string manipulation)  
+- Projects to explore **functions, pointers, and memory management**  
+- Small applications (games, utilities, simulations)  
+- Experiments with **structs** and modular programming  
+
+---
+
+## 🎯 Purpose of this repository
+The goal of this repository is to document my progress in **C programming**,  
+share what I learn, and keep track of the projects I develop along the way.  
 
 ---
 
 ## 🚀 Getting Started
-### 1. Clone the repository
-```
-git clone https://github.com/kbzxa/C-Library-System.git
-cd C-Library-System
-```
-### 2. Compile the program
-```
-gcc src/library.c -o build/library
-```
-### 3. Run the program
-```
-./build/library
+Each project will include:
+- A **README** with instructions  
+- **Source code** inside a `src/` folder  
+- Compilation and execution steps  
+
+Example:
+```bash
+# Compile
+gcc src/example.c -o build/example
+
+# Run
+./build/example
+
 ```
 ---
 
-## 📌 Example usage
-```
-=== Mini Library System ===
-1. Add book
-2. List books
-3. Search by title
-4. Delete book
-5. Exit
-Choose an option:
-```
----
+## 🆘 Help & Feedback
 
-## 🆘 Help
-If you have questions or suggestions, you can:
- - Open an **Issue** in this repository
- - Contact me through my GitHub profile
+If you have any suggestions or ideas to improve these projects, feel free to:
+
+- Open an **Issue** in this repository
+- Contact me through my **GitHub profile**
+
 ---
 
 ## 👨‍💻 Maintainer
-This is a personal project developed by kbzxa as part of my learning journey in C programming.
-Contributions and feedback are welcome 🙌
+
+This repository is maintained by kbzxa,
+student at Universidad Politécnica de Madrid and passionate about data, networks, and programming.

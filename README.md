@@ -1,53 +1,40 @@
-# 📚 Mini Library System in C
+# 📂 Main – C Projects Collection
 
-This project is a simple **console application written in C** that allows managing a small library.  
-The system supports adding books, listing them, searching by title, and deleting books.  
-
----
-
-## 🤔 Why is this project useful?
-- It practices fundamental concepts of **C programming**:
-  - Usage of **structures**
-  - Working with **arrays and dynamic memory**
-  - Modular **function design**
-- Shows how a low-level language like C can be applied to solve real-world problems.  
+This folder contains all my **C programming projects**, organized in subfolders.  
+Each project demonstrates different programming concepts and problem-solving approaches using the C language.  
 
 ---
 
-## 🚀 Getting Started
-### 1. Clone the repository
-```
-git clone https://github.com/kbzxa/C-Library-System.git
-cd C-Library-System
-```
-### 2. Compile the program
-```
-gcc src/library.c -o build/library
-```
-### 3. Run the program
-```
-./build/library
-```
+## 🎯 Purpose
+- Keep all my **C projects** in one place  
+- Document my **learning journey**  
+- Show progress from **beginner exercises** to more advanced applications  
+
 ---
 
-## 📌 Example usage
-```
-=== Mini Library System ===
-1. Add book
-2. List books
-3. Search by title
-4. Delete book
-5. Exit
-Choose an option:
-```
+## 🚀 How to use
+1. Navigate into any project folder:  
+   ```bash
+   cd main/project1
+   ```
+2. Compile the source code (example):
+   ```bash
+   gcc src/file.c -o build/app
+   ./build/app
+   ```
+3. Check the individual README.md inside each project for details.
+
 ---
 
-## 🆘 Help
-If you have questions or suggestions, you can:
- - Open an **Issue** in this repository
- - Contact me through my GitHub profile
----
+## 🆘 Help & Feedback
+
+- If you have **suggestions** or ideas for improvement:
+
+- Open an **Issue** in this repository
+
+- Contact me through my GitHub profile
 
 ## 👨‍💻 Maintainer
-This is a personal project developed by kbzxa as part of my learning journey in C programming.
-Contributions and feedback are welcome 🙌
+
+This collection is maintained by kbzxa,
+student at Universidad Politécnica de Madrid and passionate about data, networks, and programming.

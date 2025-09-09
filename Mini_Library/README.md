@@ -14,22 +14,6 @@ The system supports adding books, listing them, searching by title, and deleting
 
 ---
 
-## 🚀 Getting Started
-### 1. Clone the repository
-```
-git clone https://github.com/kbzxa/C-Library-System.git
-cd C-Library-System
-```
-### 2. Compile the program
-```
-gcc src/library.c -o build/library
-```
-### 3. Run the program
-```
-./build/library
-```
----
-
 ## 📌 Example usage
 ```
 === Mini Library System ===

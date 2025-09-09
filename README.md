@@ -19,23 +19,6 @@ share what I learn, and keep track of the projects I develop along the way.
 
 ---
 
-## 🚀 Getting Started
-Each project will include:
-- A **README** with instructions  
-- **Source code** inside a `src/` folder  
-- Compilation and execution steps  
-
-Example:
-```bash
-# Compile
-gcc src/example.c -o build/example
-
-# Run
-./build/example
-
-```
----
-
 ## 🆘 Help & Feedback
 
 If you have any suggestions or ideas to improve these projects, feel free to:

@@ -12,20 +12,6 @@ Each project demonstrates different programming concepts and problem-solving app
 
 ---
 
-## 🚀 How to use
-1. Navigate into any project folder:  
-   ```bash
-   cd main/project1
-   ```
-2. Compile the source code (example):
-   ```bash
-   gcc src/file.c -o build/app
-   ./build/app
-   ```
-3. Check the individual README.md inside each project for details.
-
----
-
 ## 🆘 Help & Feedback
 
 - If you have **suggestions** or ideas for improvement:

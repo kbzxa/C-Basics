@@ -1,4 +1,4 @@
-# 📂 Main – C Projects Collection
+# 📂 Master – C Projects Collection
 
 This folder contains all my **C programming projects**, organized in subfolders.  
 Each project demonstrates different programming concepts and problem-solving approaches using the C language.  
